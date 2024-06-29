@@ -1,3 +1,5 @@
+/// All Data Validations or input validations should be handled or Sanitized here ///
+
 class Sanitize {
 
     static isEmpty(_atom) {

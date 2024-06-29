@@ -1,5 +1,8 @@
 const { appendFile } = require('fs');
 const path = require('path');
+
+/// All the new strategies for loger should be defined here with another static method ///
+
 class LogStrategy {
 
     static withDate(timeStamp, message) {

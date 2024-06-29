@@ -1,6 +1,9 @@
 const LogStrategy = require("./logStrategy.js");
 const config = require('../../config/common.config');
 
+// USED - Singleton Design Pattern here as only single Object is needed all over the project //
+// USED - Strategy Design Pattern here for better maintainability and further addition of loging methods like cloud or something becomes very easier //
+
 class Logger { 
 
     strategy;

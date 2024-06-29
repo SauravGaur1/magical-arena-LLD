@@ -1,3 +1,5 @@
+// USED - Singleton Design Pattern here as only single Object is needed all over the project //
+
 class CommonConfig {
     // Player
     DEFAULT_PLAYER_HEALTH = 100;
@@ -16,6 +18,6 @@ class CommonConfig {
 }
 
 const commonConfig = new CommonConfig();
-Object.freeze(commonConfig);
+Object.freeze(commonConfig); // to make the object immutable
 
 module.exports = commonConfig;
