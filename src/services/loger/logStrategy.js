@@ -8,7 +8,7 @@ class LogStrategy {
 
     static toFile(timeStamp, message) {
         const filename = path.join(__dirname, 'data/logs.txt');
-        appendFile(filename, message , error => {
+        appendFile(filename, `${message}\n` , error => {
             if(error){
                 console.log('Error Writing to file' + error.message);   
             }

@@ -1,0 +1,349 @@
+
+
+
+Match Started : Saurav 🗡️  Swiggy
+
+
+
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 2
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 2
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 100 AND Swiggy : 100
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 4
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 3
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 100 AND Saurav : 100
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 1
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 1
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 100 AND Swiggy : 100
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 3
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 100 AND Saurav : 100
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 5
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 3
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 100 AND Swiggy : 100
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 4
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 1
+Attacker : Swiggy attacked with the damage of : 20 🗡️
+Remaning Health : Swiggy : 100 AND Saurav : 80
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 4
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 2
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 80 AND Swiggy : 100
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 5
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 3
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 100 AND Saurav : 80
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 1
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 1
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 80 AND Swiggy : 100
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 4
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 3
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 100 AND Saurav : 80
+Attacker : Saurav is rolling... 🎲
+======================================================================
+Attacker : Saurav Got the Booster as: 4
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 6
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 80 AND Swiggy : 100
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 3
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 1
+Attacker : Swiggy attacked with the damage of : 10 🗡️
+Remaning Health : Swiggy : 100 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 6
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 2
+Attacker : Saurav attacked with the damage of : 20 🗡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 2
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 1
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 1
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 6
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 3
+Defender : Saurav defended this attack 🛡️
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Remaning Health : Swiggy : 80 AND Saurav : 70
+Attacker : Saurav Got the Booster as: 5
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 3
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 5
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 6
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 1
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 2
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 5
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 3
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 2
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 4
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 1
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 3
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 1
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 3
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 3
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+Attacker : Swiggy is rolling... 🎲
+======================================================================
+Attacker : Swiggy Got the Booster as: 1
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 3
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 1
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 6
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 6
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 70 AND Swiggy : 80
+Attacker : Swiggy is rolling... 🎲
+======================================================================
+Attacker : Swiggy Got the Booster as: 4
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 70
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 5
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Remaning Health : Saurav : 70 AND Swiggy : 80
+Attacker : Swiggy Got the Booster as: 6
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 1
+Attacker : Swiggy attacked with the damage of : 40 🗡️
+Remaning Health : Swiggy : 80 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 3
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 4
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 30 AND Swiggy : 80
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 2
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 80 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 3
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 1
+Attacker : Saurav attacked with the damage of : 10 🗡️
+Remaning Health : Saurav : 30 AND Swiggy : 70
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 5
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 6
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 70 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 3
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 3
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 30 AND Swiggy : 70
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 4
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 4
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 70 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 5
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 3
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 30 AND Swiggy : 70
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 5
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 70 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 5
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 30 AND Swiggy : 70
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 1
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 5
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 70 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 2
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 2
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 30 AND Swiggy : 70
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 1
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 4
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 70 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 1
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 30 AND Swiggy : 70
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 2
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 1
+Defender : Saurav defended this attack 🛡️
+Remaning Health : Swiggy : 70 AND Saurav : 30
+======================================================================
+Attacker : Saurav is rolling... 🎲
+Attacker : Saurav Got the Booster as: 3
+Defender : Swiggy is rolling... 🎲
+Defender : Swiggy Got the Booster as: 5
+Defender : Swiggy defended this attack 🛡️
+Remaning Health : Saurav : 30 AND Swiggy : 70
+======================================================================
+Attacker : Swiggy is rolling... 🎲
+Attacker : Swiggy Got the Booster as: 5
+Defender : Saurav is rolling... 🎲
+Defender : Saurav Got the Booster as: 1
+Attacker : Swiggy attacked with the damage of : 30 🗡️
+======================================================================
+Remaning Health : Swiggy : 70 AND Saurav : 0
+
+
+🏆 Swiggy 🏆 Won this Match and defeted Saurav with 70 health remaning
+
+
+======================================================================
