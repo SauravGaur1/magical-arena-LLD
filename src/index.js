@@ -34,5 +34,5 @@ class Main {
 
 }
 
-Main.changeLogerStrategy(commonConfig.strategies.toConsole);
+Main.changeLogerStrategy(commonConfig.strategies.toConsole); // logs storeage : src/services/loger/data/logs.txt
 Main.run();

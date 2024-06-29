@@ -12,10 +12,12 @@ npm install
 ```
 ```
 Logger Service
-A flexible logger service that uses strategies pattern :
-
+A flexible logger service that uses strategies pattern to add logs into diffrent locations :
 To Console: Logs messages to the console.
 To File: Logs messages to a file located in src/services/loger/data.
+
+NOTE : we can change the Logger Object anywhere as it is Singleton, but its better to change it in index.js
+
 ```
 
 ## Usage
