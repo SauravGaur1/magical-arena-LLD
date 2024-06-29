@@ -5,11 +5,13 @@ class Player {
     #health;
     #strength;
     #attack;
+    #name
 
-    constructor(_health, _strength, _attack) {
+    constructor(_name, _health, _strength, _attack,) {
         this.#health = _health ?? commonConfig.DEFAULT_PLAYER_HEALTH;
         this.#strength = _strength ?? commonConfig.DEFAULT_PLAYER_STRENGTH;
         this.#attack = _attack ?? commonConfig.DEFAULT_PLAYER_ATTACK;
+        this.#name = _name ?? `${this.#health}-${this.#strength}-${this.#attack}`;
         return this;
     }
 
@@ -30,6 +32,11 @@ class Player {
         return this;
     }
 
+    name(_name) {
+        this.#name = _name;
+        return this;
+    }
+
     // getters
 
     get health() {
@@ -42,6 +49,10 @@ class Player {
 
     get attack() {
         return this.#attack;
+    }
+
+    get name() {
+        return this.#name;
     }
 
     // game features
