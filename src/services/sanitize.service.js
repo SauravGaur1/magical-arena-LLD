@@ -1,4 +1,5 @@
 class Sanitize {
+
     static isEmpty(_atom) {
         return (_atom == null || _atom == undefined);
     }
@@ -6,6 +7,7 @@ class Sanitize {
     static isValidPlayerPower(_atom) {
         return (typeof _atom == "number" && _atom > 0);
     }
+
 }
 
-module.exports = Sanitize();
+module.exports = Sanitize;
