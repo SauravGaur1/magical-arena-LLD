@@ -68,5 +68,4 @@ class MagicalArena {
     }
 }
 
-const arena = new MagicalArena();
-arena.startMatch();
+module.exports = MagicalArena;
