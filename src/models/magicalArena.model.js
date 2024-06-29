@@ -8,8 +8,8 @@ class MagicalArena {
 
     async startMatch(_playerA, _playerB) {
 
-        let playerA = _playerA ?? new Player("Player 1");
-        let playerB = _playerB ?? new Player("Player 2");
+        const playerA = _playerA ?? new Player("Player 1");
+        const playerB = _playerB ?? new Player("Player 2");
 
         let attacker;
         let defender;
@@ -24,7 +24,7 @@ class MagicalArena {
         while(attacker.isAlive && defender.isAlive) {
             Logger.log(`Attacker : ${attacker.name} is rolling... 🎲`);
             await Future.delay(500);
-            let _boosterDice = Dice.roll();
+            let _boosterDice = Dice.roll();playerA
             Logger.log(`Attacker : ${attacker.name} Got the Booster as: ${_boosterDice}`);
             const attackerDamage = attacker.calcDamage(_boosterDice);
             Logger.log(`Defender : ${defender.name} is rolling... 🎲`);
