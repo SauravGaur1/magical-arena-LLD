@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/**/*.js"
+    "test": "mocha tests/**/*.js",
+    "startDev": "node src/index.js",
+    "startProd": "npm run test; node src/index.js"
   },
   "keywords": [],
   "author": "",

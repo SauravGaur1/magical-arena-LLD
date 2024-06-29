@@ -12,7 +12,7 @@ class Main {
         const arena = new MagicalArena();
 
         const playerA = new Player()
-            .setName("Saurav")
+            .setName("Saurav Gaur")
             .setHealth(100)
             .setAttack(20)
             .setStrength(10);  
