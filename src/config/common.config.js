@@ -5,7 +5,7 @@ class CommonConfig {
     DEFAULT_PLAYER_ATTACK = 10;
 
     // DICE
-    DEFAULT_DICE_SIDES = 10;
+    DEFAULT_DICE_SIDES = 6;
 }
 
 const commonConfig = new CommonConfig();
