@@ -1,3 +1,5 @@
+const Lang = require('./lang.config');
+
 // USED - Singleton Design Pattern here as only single Object is needed all over the project //
 
 class CommonConfig {
@@ -10,10 +12,10 @@ class CommonConfig {
     DEFAULT_DICE_SIDES = 6;
 
     strategies = {
-        toConsole : "toConsole",
-        toFile : "toFile",
-        withDate: "withDate",
-        default: "toConsole",
+        toConsole : Lang.toConsole,
+        toFile : Lang.toFile,
+        withDate: Lang.withDate,
+        default: Lang.toConsole,
     }
 }
 

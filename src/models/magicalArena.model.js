@@ -2,6 +2,7 @@ const Player = require('./player.model.js');
 const Dice = require('../utils/dice.util.js');
 const Future = require('../services/future.service.js');
 const Logger = require('../services/loger/loger.service.js');
+const Lang = require('../config/lang.config.js');
 
 class MagicalArena {
 
@@ -45,7 +46,7 @@ class MagicalArena {
 
             [attacker, defender] = this.#toggle(attacker, defender);
 
-            Logger.log("======================================================================")
+            Logger.log(Lang.diveider)
         }
 
         this.#announceWinner(attacker, defender);
@@ -64,7 +65,7 @@ class MagicalArena {
             Logger.log(`🏆 ${_playerB.name} 🏆 Won this Match and defeted ${_playerA.name} with ${_playerB.health} health remaning`);
 
         Logger.log('\n')
-        Logger.log("======================================================================")
+        Logger.log(Lang.diveider);
     }
 }
 
