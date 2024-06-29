@@ -5,7 +5,7 @@ class Player {
     #health;
     #strength;
     #attack;
-    #name
+    #name;
 
     constructor(_name, _health, _strength, _attack,) {
         this.#health = _health ?? commonConfig.DEFAULT_PLAYER_HEALTH;
@@ -17,22 +17,22 @@ class Player {
 
     // setters
 
-    health(_health) {
+    setHealth(_health) {
         this.#health = _health;
         return this;
     }
 
-    strength(_strength) {
+    setStrength(_strength) {
         this.#strength = _strength;
         return this;
     }
 
-    attack(_attack) {
+    setAttack(_attack) {
         this.#attack = _attack;
         return this;
     }
 
-    name(_name) {
+    setName(_name) {
         this.#name = _name;
         return this;
     }

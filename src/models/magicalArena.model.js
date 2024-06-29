@@ -7,8 +7,8 @@ class MagicalArena {
 
     async startMatch(_playerA, _playerB) {
 
-        let playerA = _playerA ?? new Player("Saurav");
-        let playerB = _playerB ?? new Player("Swiggy");
+        let playerA = _playerA ?? new Player("Player 1");
+        let playerB = _playerB ?? new Player("Player 2");
 
         let attacker;
         let defender;
