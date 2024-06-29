@@ -25,20 +25,20 @@ class MagicalArena {
             Logger.log(`Attacker : ${attacker.name} is rolling... 🎲`);
             await Future.delay(500);
             let _boosterDice = Dice.roll();
-            Logger.log(`Attacker : ${attacker.name} Got the Booster as: ${_boosterDice}`);
+            Logger.log(`           ${attacker.name} Got the Booster as: ${_boosterDice}\n`);
             const attackerDamage = attacker.calcDamage(_boosterDice);
             Logger.log(`Defender : ${defender.name} is rolling... 🎲`);
             await Future.delay(500);
             _boosterDice = Dice.roll();
-            Logger.log(`Defender : ${defender.name} Got the Booster as: ${_boosterDice}`);
+            Logger.log(`           ${defender.name} Got the Booster as: ${_boosterDice}\n`);
             const defenderStrength = defender.calcDefence(_boosterDice);
 
             const actualDamage = Math.max((attackerDamage - defenderStrength), 0);
 
             if(actualDamage == 0)
-                Logger.log(`Defender : ${defender.name} defended this attack 🛡️`);
+                Logger.log(`Defender : ${defender.name} defended this attack 🛡️\n`);
             else
-                Logger.log(`Attacker : ${attacker.name} attacked with the damage of : ${actualDamage} 🗡️`);
+                Logger.log(`Attacker : ${attacker.name} attacked with the damage of : ${actualDamage} 🗡️\n`);
 
 
             defender.takeDamage(actualDamage);
