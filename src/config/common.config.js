@@ -6,6 +6,13 @@ class CommonConfig {
 
     // DICE
     DEFAULT_DICE_SIDES = 6;
+
+    strategies = {
+        toConsole : "toConsole",
+        toFile : "toFile",
+        withDate: "withDate",
+        default: "toConsole",
+    }
 }
 
 const commonConfig = new CommonConfig();
