@@ -1,7 +1,6 @@
 const Player = require('./player.model.js');
 const Dice = require('../utils/dice.util.js');
 const Future = require('../services/future.service.js');
-const Sanitize = require('../services/sanitize.service.js');
 
 class MagicalArena {
 
